@@ -68,7 +68,7 @@ https://maryamkamarizad.github.io/my-project/
 > Add a screenshot named **preview.png** inside the **images** folder.
 
 ```markdown
-![Project Preview](images/preview.png)
+![Project Preview](assets/images/preview.png)
 ```
 
 ---
