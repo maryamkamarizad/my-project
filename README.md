@@ -42,7 +42,7 @@ This project is a responsive photography landing page inspired by the **Avada Ph
 
 ## 📂 Project Structure
 
-```text
+text
 my-project/
 │
 ├── assets/
@@ -50,9 +50,9 @@ my-project/
 │   └── preview.png
 ├── index.html
 └── README.md
-```
 
----
+
+
 
 ## 🚀 Live Preview
 
@@ -60,17 +60,11 @@ my-project/
 
 https://maryamkamarizad.github.io/my-project/
 
----
+
 
 ## 📸 Screenshot
 
-> Add a screenshot named **preview.png** inside the **images** folder.
-
-```markdown
 ![Project Preview](assets/images/preview.png)
-```
-
----
 
 ## 🎯 Skills Practiced
 
