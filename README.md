@@ -45,11 +45,10 @@ This project is a responsive photography landing page inspired by the **Avada Ph
 ```text
 my-project/
 │
-├── index.html
-├── css/
-│   ├── master.css
-│   └── public.css
+├── assets/
 ├── images/
+│   └── preview.png
+├── index.html
 └── README.md
 ```
 
